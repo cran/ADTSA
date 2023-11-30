@@ -1,0 +1,16 @@
+export("Analyze_Fre_Acf", 
+       "Astimate_Acf_Band", 
+       "Cal_Cross_Corr", 
+       "Der_Lev_Pac", 
+       "Estimate_Acps",
+       "get.ahat", 
+       "JN_ACSDM", 
+       "JN_VMBBA", 
+       "MB_Ac",
+       "P_CI",
+       "B_CI",
+       "pairwise_MBL", 
+       "Sug_dm", 
+       "VMBB")
+importFrom("stats", "acf", "ccf", "cor", "fft", "na.omit", "na.pass",
+             "pnorm", "qnorm", "quantile", "sd")
