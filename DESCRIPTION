@@ -1,8 +1,8 @@
 Package: ADTSA
 Type: Package
 Title: Time Series Analysis
-Version: 1.0
-Date: 2023-11-16
+Version: 1.0.1
+Date: 2023-12-20
 Authors@R: c(
       person(given = "Hossein",
         family = "Hassani",
@@ -30,7 +30,7 @@ Description: Analyzes autocorrelation and partial autocorrelation using surrogat
   intervals and estimates partial autocorrelations using Durbin-Levinson. This package 
   calculates the autocorrelation power spectrum, computes cross-correlations between two 
   time series, computes bandwidth for any time series, and performs autocorrelation frequency 
-  analysis.
+  analysis. It also calculates the periodicity of a time series.
 License: GPL-3
 Author: Hossein Hassani [aut],
   Masoud Yarmohammadi [aut],
@@ -38,6 +38,6 @@ Author: Hossein Hassani [aut],
   Leila Marvian Mashhad [aut, cre]
 Maintainer: Leila Marvian Mashhad <Leila.marveian@gmail.com>
 NeedsCompilation: no
-Packaged: 2023-11-30 12:31:35 UTC; ne_da
+Packaged: 2023-12-26 19:36:37 UTC; ne_da
 Repository: CRAN
-Date/Publication: 2023-11-30 17:20:02 UTC
+Date/Publication: 2024-01-08 12:00:11 UTC

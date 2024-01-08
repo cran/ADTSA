@@ -9,8 +9,9 @@ export("Analyze_Fre_Acf",
        "MB_Ac",
        "P_CI",
        "B_CI",
-       "pairwise_MBL", 
+       "pairwise_MBL",
+       "Period_ts", 
        "Sug_dm", 
        "VMBB")
 importFrom("stats", "acf", "ccf", "cor", "fft", "na.omit", "na.pass",
-             "pnorm", "qnorm", "quantile", "sd")
+             "pnorm", "qnorm", "quantile", "sd", "spec.pgram")

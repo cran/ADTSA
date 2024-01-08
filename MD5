@@ -1,5 +1,5 @@
-799e6460c371ad83a7f91570fdbb6faa *DESCRIPTION
-359a23471cbb73610bec139807c74f15 *NAMESPACE
+a64cc0624064f5026f2a36cb58331fbb *DESCRIPTION
+648c8b3bfd13ee6501829db851d40965 *NAMESPACE
 f3b4fcc19f475a8cb3c28692d2b14e59 *R/Analyze_Fre_Acf.R
 8fcaa66b2c1deaed0cfe65883921f969 *R/Astimate_Acf_Band.R
 37d9ebf25f75e4d40168355744fd0096 *R/Cal_Cross_Corr.R
@@ -9,6 +9,7 @@ c91942ef8c2e068efa85db5eb7fc9cba *R/JN_ACSDM.R
 ebf728d412c78535cfc0a505018e66fe *R/JN_VMBBA.R
 ee9809757aa462a543353dd7096ace07 *R/MB_Ac.R
 f25afa24f4cb69eef7f5328ba539acaf *R/P_CI.R
+db487534ddc5f0f9ca4a5eaa31d39e37 *R/Period_ts.R
 d589044e7f7be85e237f8838954def90 *R/Sug_dm.R
 e9704d87da3b1777b54d39de456b425f *R/VMBB.R
 9a992b2f3c15fb63b6a45fbf485f6d5f *R/get.ahat.R
@@ -22,6 +23,7 @@ e697a28591389ec279620ba2ca0a5840 *man/Estimate_Acps.Rd
 91cfe02e66f99208eac463374e478310 *man/JN_VMBBA.Rd
 5cba06e4aa833de5bb5fe94ee2feefbb *man/MB_Ac.Rd
 caf0f9a8694c3f744dfdae3b182fa30d *man/P_CI.Rd
+7be2b6a55f3843dd26c9f18395ccee1e *man/Period_ts.Rd
 1af709d8285e64d52a1b05c261d5c16f *man/Sug_dm.Rd
 4f1fb9d2d3607be75ed7b1b7bdf1fd5e *man/VMBB.Rd
 bb39d7240a614de37198afffdb1543ca *man/get.ahat.Rd
